@@ -1,16 +1,23 @@
 ## Hi there 👋
+I'm MOUAD MEKRECH 
 
-<!--
-**MOUAD123MEK/MOUAD123MEK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer passionate about creating modern and scalable digital products
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Programming Languages: Python, JavaScript, SQL
+- Web Technologies: HTML, CSS, React, PHP
+- Tools: Git, GitHub, GItLAb Docker, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Interests
+- ✅ Watching TV shows, movies
+- ✅ Playing basketball, and volleyball  
+- ✅ Exploring new technologies
+
+
+## 📞 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/mouad-mekrech-5b1057330/)
+- [Email](mailto:mouadmekrech12@gmail.com)
+
+---
+
+*"Code is poetry"* ✨
