@@ -4,7 +4,6 @@
 ## 🚀 About Me
 <div align="center">
 
-![GitHub Stats](https://github.com/MOUAD123MEK/MOUAD123MEK/edit/main/README.md)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahamza2&layout=compact&hide_border=true&theme=radical&bg_color=30,0d1117,161b22&title_color=58a6ff)
 
