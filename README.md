@@ -37,10 +37,11 @@
 
 
 
-<div align="center">
-"The computer was born to solve problems that did not exist before." - Bill Gates
+<div align="center" https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer
+>
+"The computer was born to solve problems that did not exist before." 
 ⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect.
 
 https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer
 
-</div> ```
+</div> 
