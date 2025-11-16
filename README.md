@@ -30,6 +30,13 @@
 
 
 
+## 📊 Weekly Development Breakdown
+Bootstrap    ████████████░░░░░░░░░░    67.13%
+PHP          █████████░░░░░░░░░░░░░    24.14%
+Mysql        ████░░░░░░░░░░░░░░░░░░     5.69%
+React        ██░░░░░░░░░░░░░░░░░░░░     2.43%
+Shell        ░░░░░░░░░░░░░░░░░░░░░░     0.61%
+
 
 ## Contact me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://127.0.0.1:5500/portfolio-mouad.html)
@@ -37,11 +44,6 @@
 
 
 
-<div align="center" https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer
->
-"The computer was born to solve problems that did not exist before." 
-⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect.
-
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer
-
-</div> 
+<p align="cdnter">
+"Clean code is not written by following rules. It's written by experience, experimentation, and continuous learning."
+/p>
