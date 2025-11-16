@@ -13,6 +13,8 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,react,python,git" />
 </p>
 
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,rust,go,bash,git,docker,linux,aws,react" />
+
 ### **Development Tools**
 <p align="left">
 <img src="https://skillicons.dev/icons?i=vscode,github,gitlab" />
