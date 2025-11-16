@@ -3,39 +3,6 @@
  💻 Full Stack Web Developer
 
 
-# About me
-<div align="center">
-
-<!-- Section profil avec image -->
-<img src="https://avatars.githubusercontent.com/ahamza2" width="120" style="border-radius: 50%; border: 3px solid #58a6ff;">
-
-# Hamza AARAB
-
-### **Transcender • 42 Network • Level 11**
-
-> *Pushing boundaries through code and innovation*
-
-</div>
-
-## 🎓 Academic Profile
-
-| | |
-|-|-|
-| **📛 Name** | Hamza AARAB |
-| **📧 Email** | `haarab@student.1337.ma` |
-| **🏫 Institution** | 1337 School (42 Network) |
-| **📚 Program** | 42cursus |
-| **🏆 Grade** | **Transcender** |
-| **📈 Level** | **11 (18%)** - Senior |
-| **🎯 Next Goal** | Master Grade |
-
----
-
-<div align="center">
-
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
 
 
 
