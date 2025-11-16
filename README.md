@@ -1,7 +1,6 @@
-# HI,everybody
+# 👋 Hi, I'm AARAB Hamza
 
-
- 💻 Mouad MEKRCH | Full Stack Web Developer
+ 💻 Full Stack Web Developer
 
 
 
