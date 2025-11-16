@@ -1,27 +1,27 @@
-# 👋 Hi, I'm AARAB Hamza
+# 👋 Hi, I'm MEKRECH MOUAd
 
 ## 🎓 42 Network Student
-- **Name:** Hamza Aarab
-- **Email:** haarab@student.1337.ma
-- **Cursus:** 42cursus
-- **Grade:** Transcender
-- **Level:** 11 - 18%
+- **Name:** Mouad MEkrech
+- **Email:** mouadmekrech72@gmail.com
+- **Cursus:** 35cursus
+- **Grade:** Associate
+- **Level:** 07 - 10%
 
 ---
 
 ## 📊 GitHub Stats
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahamza2&show_icons=true&theme=radical)
+![Mouad's GitHub stats](https://github.com/MOUAD123MEK)
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahamza2&layout=compact&theme=radical)
+![Top Languages])
 
-- **C:** 67.13%
-- **C++:** 24.14%
-- **Makefile:** 5.69%
-- **JavaScript:** 2.43%
-- **Shell:** 0.61%
+- **Bootstrap:** 67.13%
+- **php:** 24.14%
+- **Mysql:** 5.69%
+- **React:** 2.43%
+- **Node.js:** 0.61%
 
 ## 📈 GitHub Metrics
 - **Total Stars Earned:** 5
@@ -45,9 +45,8 @@
 
 ## 📫 Connect with me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haarab@student.1337.ma)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haarab@student.1337.m)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahamza2)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
 
