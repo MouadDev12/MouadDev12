@@ -44,7 +44,7 @@ Shell              ░░░░░░░░░░░░░░░░░░░░�
 
 
 ## Contact me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](http:https://mekrech-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mekrech-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouad-mekrech-5b1057330/)
 
 
