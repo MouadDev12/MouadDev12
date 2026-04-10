@@ -19,13 +19,13 @@ I enjoy building clean, responsive, and efficient web applications.
 
 ### **Languages & Technologies**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,react,python,git,laravel,figma,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,react,python,git,laravel,mysql,mongodb" />
 </p>
 
 
 ### **Development Tools**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=vscode,github,gitlab,figma" />
 </p>
 
 
