@@ -28,14 +28,6 @@ I enjoy building clean, responsive, and efficient web applications.
 <img src="https://skillicons.dev/icons?i=vscode,github,gitlab" />
 </p>
 
-## 🎓 42 Progress & Achievements
-
-| Metric | Status | Progress |
-|--------|--------|----------|
-| **Grade** | Associate | 🔥 |
-| **Level** | 11 (18%) | 🚀 |
-| **Cursus** | 20cursus | ✅ |
-| **Campus** | ISTA | 🏛️ |
 
 
 
